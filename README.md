@@ -1,4 +1,4 @@
-# Extrapolation_model_experiments
+# Extrapolation Model Experiments
 This repo contains a project focused on model experimentation under extrapolation.
 
 There is a Medium Blog associated with this code, which hopefully you have read if you landed in this repo!
